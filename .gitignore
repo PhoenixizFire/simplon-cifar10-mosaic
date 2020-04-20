@@ -1,3 +1,6 @@
+# document à ignorer pour l'exo
+test.toto
+
 # fichiers du mac
 .DS_Store
 # dossier des données
