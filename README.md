@@ -1,4 +1,5 @@
 # Première utilisation de Github
+MODIFICATION FAITE
 ## Gestion de Github
 - Création d'un compte sur Github
 - Créer un dossier simplon-cifar10-mosaic sur votre compte github
